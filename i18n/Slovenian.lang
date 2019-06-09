@@ -16,7 +16,7 @@
 	"sLoadingRecords": "Nalagam...",
 	"sProcessing": "Obdelujem...",
 	"sSearch": "Išči:",
-	"sZeroRecords": "Nobeden zapis ne ustreza",
+	"sZeroRecords": "Ni zapisov, ki bi ustrezali iskalnim pogojem",
 	"oPaginate": {
 		"sFirst": "Prvi",
 		"sLast": "Zadnji",
